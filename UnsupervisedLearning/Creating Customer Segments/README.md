@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>machine-learning/project_description.md at master · udacity/machine-learning</title>
+  <title>machine-learning/README.md at master · udacity/machine-learning</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars1.githubusercontent.com/u/1916665?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="udacity/machine-learning" property="og:title" /><meta content="https://github.com/udacity/machine-learning" property="og:url" /><meta content="machine-learning - Content for Udacity&#39;s Machine Learning curriculum" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjM2NjEwODYzOjBmZDBkN2NiNTdmY2MxNDViNWVhMTYyODZhOTgzY2M5ZTE4NjMyYWQwMWEwOWViZjM0ZThjMmNhY2JhMTMyYWI=--036ad83a5cfef784f59f337e0852bd2888ea9ef7">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjM2NjEwODYzOmZjODYwZTVhZTIxNTBjNWI4YjNjMTZmZTdjNWQyY2QyNTVmZjJmNDg1NzM2ZTJmZDk5YTdhMWI5MjU4OGJlYjQ=--e66092f9305d51a667f40fee1e36634627e28610">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="9E12:11C1:34D649A:5D7B8B7:5A6B3711" data-pjax-transient>
+  <meta name="request-id" content="9E12:11C1:34D4F52:5D7527A:5A6B36BE" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -49,7 +49,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="9E12:11C1:34D649A:5D7B8B7:5A6B3711" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="28972596" name="octolytics-actor-id" /><meta content="samratp" name="octolytics-actor-login" /><meta content="8afc93ba241a66939df7321a5d4a031dc226b3b01e4d0a3ced2d6988ca2b00f2" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="9E12:11C1:34D4F52:5D7527A:5A6B36BE" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="28972596" name="octolytics-actor-id" /><meta content="samratp" name="octolytics-actor-login" /><meta content="8afc93ba241a66939df7321a5d4a031dc226b3b01e4d0a3ced2d6988ca2b00f2" name="octolytics-actor-hash" />
 <meta content="https://github.com/hydro_browser_events" name="hydro-events-url" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
@@ -65,7 +65,7 @@
   <meta name="user-login" content="samratp">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MGQ2MTU1NGYxNzY1YjI0ODk5MjZkYTJjMDJhY2E2NjM3MDJjZTA5ZTFhNDU2YjY1N2ZhYjllOWVhYjdjMWNiZHx7InJlbW90ZV9hZGRyZXNzIjoiMTgzLjgzLjY2LjU5IiwicmVxdWVzdF9pZCI6IjlFMTI6MTFDMTozNEQ2NDlBOjVEN0I4Qjc6NUE2QjM3MTEiLCJ0aW1lc3RhbXAiOjE1MTY5NzU4OTYsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="OGM4NzhjNWMwN2U5OGRmNDBmNmQ4MWNjNDYyNmVlNDAzNDY5Zjg4YWVmOTQyNjQxZTA2NzI2ZDM0Y2VhZjM5NXx7InJlbW90ZV9hZGRyZXNzIjoiMTgzLjgzLjY2LjU5IiwicmVxdWVzdF9pZCI6IjlFMTI6MTFDMTozNEQ0RjUyOjVENzUyN0E6NUE2QjM2QkUiLCJ0aW1lc3RhbXAiOjE1MTY5NzU4NjUsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,CONTRIBUTOR_FLAGGED_CONTENT">
 
@@ -82,7 +82,7 @@
   <meta content="1916665" name="octolytics-dimension-user_id" /><meta content="udacity" name="octolytics-dimension-user_login" /><meta content="50450433" name="octolytics-dimension-repository_id" /><meta content="udacity/machine-learning" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="50450433" name="octolytics-dimension-repository_network_root_id" /><meta content="udacity/machine-learning" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/udacity/machine-learning/blob/master/projects/customer_segments/project_description.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/udacity/machine-learning/blob/master/projects/customer_segments/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -128,7 +128,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/search" class="js-site-search-form" data-scoped-search-url="/udacity/machine-learning/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/udacity/machine-learning/blob/master/projects/customer_segments/project_description.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/udacity/machine-learning/blob/master/projects/customer_segments/README.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -251,7 +251,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="tVpFdHEOnqOjCR0gYtpcf7+R6E/mKjjnJdzTf1Be89VUIP5COYKh+/mkc++tModYVso28JAkNOO+U7G59LrncA==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bAT20xWDp1O20qLQpXHZ+tfkPtDGz0Y6/z5EWwTS5HiNfk3lXQ+YC+x/zB9qmQLdPr/gb7DBSj5ksSadoDbw3Q==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -262,7 +262,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zrmHaYScBAM699Z4EyIMriylTfTgLPMKq4P3LXZKUk4vwzxfzBA7W2BauLfcyteJxf6TS5Yi/w4wDJXr0q5G6w==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uYjTPoQHWzFzmALwGzu+pAAZZltU9caQRaKGdebAubBY8mgIzItkaSk1bD/U02WD6UK45CL7ypTeLeSzQiStFQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -299,7 +299,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="E0fTEt/7gwepNyk8Upwuk7U8mhlLckypdKvLmEz3ixLt7yatM3Fdti3uzqSnlwjO/jCtSLXio52HQWwhUYpD4Q==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="50450433" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="680JC7euzDPgHILB52KPb9fQhAGE1dx8qphQXM5erWwVZfy0WyQSgmTFZVkSaakynNyzUHpFM0hZcvfl0yNlnw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="50450433" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/udacity/machine-learning/subscription"
@@ -379,7 +379,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="SlOfUuh3U/Cuk5kkJyA1PMzjtz3WfS9LfMCpF2zETsEvGPbveO6DMEuXXJoAGEvhTZjHoxpKhqzEqjci9m9ZiA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="erU8T286oiIFb/4JdcJcAIRtwxuGSpxXGp2LA0i4+1sf/lXy/6Ny4uBrO7dS+iLdBRazhUp9NbCi9xU20hPsEg==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -394,7 +394,7 @@
           1,802
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ffvJyv3Jt9ZvzDFe4lrzqochWWLCD8lK+XlJ1Fev//OpMpYkyETq8vEmQxwBbqiJOGsv7JaoW2XfrhXtjOfS6g==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="idg1+thUdhByUYDUD8fap33wkaEoa7lAg+NFFQWGsSJdEWoU7dkrNOy78pbs84GEwrrnL3zMK2+lNBks3s6cOw==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -413,7 +413,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="OC42K9svDLCiST33qRDuHi9WO4XIbNGvpfaJDMXSftoHdVWn7nYQUc2RLGUxGwpN8xOfMcWnMaa64aC00RJboQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="i0Q9J88ClR0L/5LfsUQsU6nuS7Ah6atxK3KIrkhnSAa0H16r+luJ/GQng00pT8gAdavvBCwiS3g0ZaEWXKdtfQ==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -494,9 +494,9 @@
   <div class="repository-content ">
 
     
-  <a href="/udacity/machine-learning/blob/958e3c517441cd510a01fc467282e0df0c716315/projects/customer_segments/project_description.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/udacity/machine-learning/blob/958e3c517441cd510a01fc467282e0df0c716315/projects/customer_segments/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:143fd80a3b1ab258f64170709ca7c044 -->
+  <!-- blob contrib key: blob_contributors:v21:0a65c1af3dceaa8a427094a1d6509a00 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -538,7 +538,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/development/projects/customer_segments/project_description.md"
+               href="/udacity/machine-learning/blob/development/projects/customer_segments/README.md"
                data-name="development"
                data-skip-pjax="true"
                rel="nofollow">
@@ -548,7 +548,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/udacity/machine-learning/blob/master/projects/customer_segments/project_description.md"
+               href="/udacity/machine-learning/blob/master/projects/customer_segments/README.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -558,7 +558,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/nicky/remove-log-ignore/projects/customer_segments/project_description.md"
+               href="/udacity/machine-learning/blob/nicky/remove-log-ignore/projects/customer_segments/README.md"
                data-name="nicky/remove-log-ignore"
                data-skip-pjax="true"
                rel="nofollow">
@@ -568,7 +568,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/revert-170-master/projects/customer_segments/project_description.md"
+               href="/udacity/machine-learning/blob/revert-170-master/projects/customer_segments/README.md"
                data-name="revert-170-master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -578,7 +578,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/smartcab-fix/projects/customer_segments/project_description.md"
+               href="/udacity/machine-learning/blob/smartcab-fix/projects/customer_segments/README.md"
                data-name="smartcab-fix"
                data-skip-pjax="true"
                rel="nofollow">
@@ -588,7 +588,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/udacity/machine-learning/blob/test_normalize/projects/customer_segments/project_description.md"
+               href="/udacity/machine-learning/blob/test_normalize/projects/customer_segments/README.md"
                data-name="test_normalize"
                data-skip-pjax="true"
                rel="nofollow">
@@ -625,12 +625,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/udacity/machine-learning"><span>machine-learning</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/udacity/machine-learning/tree/master/projects"><span>projects</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/udacity/machine-learning/tree/master/projects/customer_segments"><span>customer_segments</span></a></span><span class="separator">/</span><strong class="final-path">project_description.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/udacity/machine-learning"><span>machine-learning</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/udacity/machine-learning/tree/master/projects"><span>projects</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/udacity/machine-learning/tree/master/projects/customer_segments"><span>customer_segments</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/udacity/machine-learning/contributors/master/projects/customer_segments/project_description.md">
+  <include-fragment class="commit-tease" src="/udacity/machine-learning/contributors/master/projects/customer_segments/README.md">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -646,25 +646,25 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/udacity/machine-learning/raw/master/projects/customer_segments/project_description.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/udacity/machine-learning/blame/master/projects/customer_segments/project_description.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/udacity/machine-learning/commits/master/projects/customer_segments/project_description.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/udacity/machine-learning/raw/master/projects/customer_segments/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/udacity/machine-learning/blame/master/projects/customer_segments/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/udacity/machine-learning/commits/master/projects/customer_segments/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="x-github-client://openRepo/https://github.com/udacity/machine-learning?branch=master&amp;filepath=projects%2Fcustomer_segments%2Fproject_description.md"
+           href="x-github-client://openRepo/https://github.com/udacity/machine-learning?branch=master&amp;filepath=projects%2Fcustomer_segments%2FREADME.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/edit/master/projects/customer_segments/project_description.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="v4ZpkJJR7Uy6dQwlvX8MZlbmOgAB4Hvs/w9L1EiYx8J4PVzeWkW01Y+e4IHgabJuC7kn/ibBl4tp9VoFLiwJLw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/edit/master/projects/customer_segments/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TbQA/hbisMhoPjWChfc0tHTjuoBhLk+sbedKJ9EAF8suyjJTYHPMuS94baJdvyO6seGDLcEb/AWmWuy6HK9qhg==" /></div>
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/delete/master/projects/customer_segments/project_description.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+SjWDGQtfYVyitJR3VUIFsgHaMifl4TPRYFojz60ZwyQl8rAs4jO8CW33MaP5WNtXSrJxddYCB60dMLDBRlABg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/machine-learning/delete/master/projects/customer_segments/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N56lNIY52haLa11VcBFBjOlDsmibvOmU7wWzrMOEku051/oe0U0D8CLeM48V4qklix/itrDnr+QJI6DkBeykJA==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -672,66 +672,48 @@
 </form>  </div>
 
   <div class="file-info">
-      66 lines (44 sloc)
+      49 lines (34 sloc)
       <span class="file-info-divider"></span>
-    6.44 KB
+    2.63 KB
   </div>
 </div>
 
     
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a href="#machine-learning-engineer-nanodegree" aria-hidden="true" class="anchor" id="user-content-machine-learning-engineer-nanodegree"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Machine Learning Engineer Nanodegree</h1>
-<h1><a href="#unsupervised-learning" aria-hidden="true" class="anchor" id="user-content-unsupervised-learning"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Unsupervised Learning</h1>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a href="#content-unsupervised-learning" aria-hidden="true" class="anchor" id="user-content-content-unsupervised-learning"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Content: Unsupervised Learning</h1>
 <h2><a href="#project-creating-customer-segments" aria-hidden="true" class="anchor" id="user-content-project-creating-customer-segments"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project: Creating Customer Segments</h2>
-<h2><a href="#project-overview" aria-hidden="true" class="anchor" id="user-content-project-overview"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project Overview</h2>
-<p>In this project you will apply unsupervised learning techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data. You will first explore the data by selecting a small subset to sample and determine if any product categories highly correlate with one another. Afterwards, you will preprocess the data by scaling each product category and then identifying (and removing) unwanted outliers. With the good, clean customer spending data, you will apply PCA transformations to the data and implement clustering algorithms to segment the transformed customer data. Finally, you will compare the segmentation found with an additional labeling and consider ways this information could assist the wholesale distributor with future service changes.</p>
-<h2><a href="#project-highlights" aria-hidden="true" class="anchor" id="user-content-project-highlights"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Project Highlights</h2>
-<p>This project is designed to give you a hands-on experience with unsupervised learning and work towards developing conclusions for a potential client on a real-world dataset. Many companies today collect vast amounts of data on customers and clientele, and have a strong desire to understand the meaningful relationships hidden in their customer base. Being equipped with this information can assist a company engineer future products and services that best satisfy the demands or needs of their customers.</p>
-<p>Things you will learn by completing this project:</p>
+<h3><a href="#install" aria-hidden="true" class="anchor" id="user-content-install"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Install</h3>
+<p>This project requires <strong>Python 2.7</strong> and the following Python libraries installed:</p>
 <ul>
-<li>How to apply preprocessing techniques such as feature scaling and outlier detection.</li>
-<li>How to interpret data points that have been scaled, transformed, or reduced from PCA.</li>
-<li>How to analyze PCA dimensions and construct a new feature space.</li>
-<li>How to optimally cluster a set of data to find hidden patterns in a dataset.</li>
-<li>How to assess information given by cluster data and use it in a meaningful way.</li>
-</ul>
-<h2><a href="#description" aria-hidden="true" class="anchor" id="user-content-description"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Description</h2>
-<p>A wholesale distributor recently tested a change to their delivery method for some customers, by moving from a morning delivery service five days a week to a cheaper evening delivery service three days a week. Initial testing did not discover any significant unsatisfactory results, so they implemented the cheaper option for all customers. Almost immediately, the distributor began getting complaints about the delivery service change and customers were canceling deliveries, losing the distributor more money than what was being saved. You've been hired by the wholesale distributor to find what types of customers they have to help them make better, more informed business decisions in the future. Your task is to use unsupervised learning techniques to see if any similarities exist between customers, and how to best segment customers into distinct categories.</p>
-<h2><a href="#software-and-libraries" aria-hidden="true" class="anchor" id="user-content-software-and-libraries"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Software and Libraries</h2>
-<p>This project uses the following software and Python libraries:</p>
-<ul>
-<li><a href="https://www.python.org/download/releases/2.7/" rel="nofollow">Python 2.7</a></li>
 <li><a href="http://www.numpy.org/" rel="nofollow">NumPy</a></li>
-<li><a href="http://pandas.pydata.org/" rel="nofollow">pandas</a></li>
-<li><a href="http://scikit-learn.org/stable/" rel="nofollow">scikit-learn</a></li>
+<li><a href="http://pandas.pydata.org" rel="nofollow">Pandas</a></li>
 <li><a href="http://matplotlib.org/" rel="nofollow">matplotlib</a></li>
+<li><a href="http://scikit-learn.org/stable/" rel="nofollow">scikit-learn</a></li>
 </ul>
-<p>You will also need to have software installed to run and execute a <a href="http://ipython.org/notebook.html" rel="nofollow">Jupyter Notebook</a>.</p>
+<p>You will also need to have software installed to run and execute a <a href="http://ipython.org/notebook.html" rel="nofollow">Jupyter Notebook</a></p>
 <p>If you do not have Python installed yet, it is highly recommended that you install the <a href="http://continuum.io/downloads" rel="nofollow">Anaconda</a> distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.</p>
-<h2><a href="#starting-the-project" aria-hidden="true" class="anchor" id="user-content-starting-the-project"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Starting the Project</h2>
-<p>For this assignment, you can find the <code>customer_segments</code> folder containing the necessary project files on the <a href="https://github.com/udacity/machine-learning">Machine Learning projects GitHub</a>, under the <code>projects</code> folder. You may download all of the files for projects we'll use in this Nanodegree program directly from this repo. Please make sure that you use the most recent version of project files when completing a project!</p>
-<p>This project contains three files:</p>
-<ul>
-<li><code>customer_segments.ipynb</code>: This is the main file where you will be performing your work on the project.</li>
-<li><code>customers.csv</code>: The project dataset. You'll load this data in the notebook.</li>
-<li><code>visuals.py</code>: This Python script provides supplementary visualizations for the project. Do not modify.</li>
-</ul>
-<p>In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command <code>jupyter notebook customer_segments.ipynb</code> to open up a browser window or tab to work with your notebook. Alternatively, you can use the command <code>jupyter notebook</code> or <code>ipython notebook</code> and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A <strong>README</strong> file has also been provided with the project files which may contain additional necessary information or instruction for the project.</p>
-<h2><a href="#submitting-the-project" aria-hidden="true" class="anchor" id="user-content-submitting-the-project"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submitting the Project</h2>
-<h3><a href="#evaluation" aria-hidden="true" class="anchor" id="user-content-evaluation"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Evaluation</h3>
-<p>Your project will be reviewed by a Udacity reviewer against the <strong><a href="https://review.udacity.com/#!/rubrics/105/view" rel="nofollow">Creating Customer Segments project rubric</a></strong>. Be sure to review this rubric thoroughly and self-evaluate your project before submission. All criteria found in the rubric must be <em>meeting specifications</em> for you to pass.</p>
-<h3><a href="#submission-files" aria-hidden="true" class="anchor" id="user-content-submission-files"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Submission Files</h3>
-<p>When you are ready to submit your project, collect the following files and compress them into a single archive for upload. Alternatively, you may supply the following files on your GitHub Repo in a folder named <code>customer_segments</code> for ease of access:</p>
-<ul>
-<li>The <code>customer_segments.ipynb</code> notebook file with all questions answered and all code cells executed and displaying output.</li>
-<li>An <strong>HTML</strong> export of the project notebook with the name <strong>report.html</strong>. This file <em>must</em> be present for your project to be evaluated.</li>
-</ul>
-<p>Once you have collected these files and reviewed the project rubric, proceed to the project submission page.</p>
-<h3><a href="#im-ready" aria-hidden="true" class="anchor" id="user-content-im-ready"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>I'm Ready!</h3>
-<p>When you're ready to submit your project, click on the <strong>Submit Project</strong> button at the bottom of the page.</p>
-<p>If you are having any problems submitting your project or wish to check on the status of your submission, please email us at <strong><a href="mailto:machine-support@udacity.com">machine-support@udacity.com</a></strong> or visit us in the <a href="http://discussions.udacity.com" rel="nofollow">discussion forums</a>.</p>
-<h3><a href="#whats-next" aria-hidden="true" class="anchor" id="user-content-whats-next"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What's Next?</h3>
-<p>You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!</p>
+<h3><a href="#code" aria-hidden="true" class="anchor" id="user-content-code"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Code</h3>
+<p>Template code is provided in the <code>customer_segments.ipynb</code> notebook file. You will also be required to use the included <code>visuals.py</code> Python file and the <code>customers.csv</code> dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in <code>visuals.py</code> is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.</p>
+<h3><a href="#run" aria-hidden="true" class="anchor" id="user-content-run"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Run</h3>
+<p>In a terminal or command window, navigate to the top-level project directory <code>customer_segments/</code> (that contains this README) and run one of the following commands:</p>
+<div class="highlight highlight-source-shell"><pre>ipython notebook customer_segments.ipynb</pre></div>
+<p>or</p>
+<div class="highlight highlight-source-shell"><pre>jupyter notebook customer_segments.ipynb</pre></div>
+<p>This will open the Jupyter Notebook software and project file in your browser.</p>
+<h2><a href="#data" aria-hidden="true" class="anchor" id="user-content-data"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Data</h2>
+<p>The customer segments data is included as a selection of 440 data points collected on data found from clients of a wholesale distributor in Lisbon, Portugal. More information can be found on the <a href="https://archive.ics.uci.edu/ml/datasets/Wholesale+customers" rel="nofollow">UCI Machine Learning Repository</a>.</p>
+<p>Note (m.u.) is shorthand for <em>monetary units</em>.</p>
+<p><strong>Features</strong></p>
+<ol>
+<li><code>Fresh</code>: annual spending (m.u.) on fresh products (Continuous);</li>
+<li><code>Milk</code>: annual spending (m.u.) on milk products (Continuous);</li>
+<li><code>Grocery</code>: annual spending (m.u.) on grocery products (Continuous);</li>
+<li><code>Frozen</code>: annual spending (m.u.) on frozen products (Continuous);</li>
+<li><code>Detergents_Paper</code>: annual spending (m.u.) on detergents and paper products (Continuous);</li>
+<li><code>Delicatessen</code>: annual spending (m.u.) on and delicatessen products (Continuous);</li>
+<li><code>Channel</code>: {Hotel/Restaurant/Cafe - 1, Retail - 2} (Nominal)</li>
+<li><code>Region</code>: {Lisbon - 1, Oporto - 2, or Other - 3} (Nominal)</li>
+</ol>
 </article>
   </div>
 
@@ -758,7 +740,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.32501s from unicorn-1878174559-43vxj">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.44549s from unicorn-20884320-tt1nq">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
